@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<dict>
+		<key>assets</key>
+		<array>
+			<dict>
+				<key>kind</key>
+				<string>software-package</string>
+				<key>url</key>
+				<string>https://qcmciam.quantacn.com:6688/apps/download?path=YXBwcy9kZTM4YzlkMS0xOTQzLTQ0YTItODE3Zi0wYTg4NThlY2JkYTcvYXBwXzBfMF8wXzEuaXBh</string>
+			</dict>
+			<dict>
+				<key>kind</key>
+				<string>display-image</string>
+				<key>need-shine</key>
+				<integer>0</integer>
+				<key>url</key>
+				<string>https://qcmciam.quantacn.com:6688/apps/download?path=YXBwcy8xOGI5M2Q0Yy01ZDgzLTQzYmEtYjFkMS05NGE4MzI3MWI1ZGYvbG9nbzEucG5n</string>
+			</dict>
+		</array>
+		<key>metadata</key>
+		<array>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.quantacn.quantacnmfa</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>企业安全</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
